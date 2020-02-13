@@ -1,1 +1,2 @@
 Hola, estoy probando git
+y ahora probamos cambios en local y con github
